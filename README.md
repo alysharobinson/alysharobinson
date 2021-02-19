@@ -4,9 +4,9 @@ I enjoy working with datasets(big or small), while coding and learning new thing
 
 
 My favorite programs and languages include:
-⚡Python(jupyternotebook)
-⚡Tableau
-⚡SQL/ Oracle
+  ⚡Python(jupyternotebook)
+  ⚡Tableau
+  ⚡SQL/ Oracle
 ___________________________________________________
 📫 I can be reached at
 https://www.linkedin.com/in/alysharobinson/ alysha@email.sc.edu
