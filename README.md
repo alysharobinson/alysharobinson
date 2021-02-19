@@ -9,5 +9,9 @@ My favorite programs and languages include:
   ⚡SQL/ Oracle
 ___________________________________________________
 📫 I can be reached at
-https://www.linkedin.com/in/alysharobinson/ alysha@email.sc.edu
+<a href="https://www.linkedin.com/in/alysharobinson/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+
+alysha@email.sc.edu
 
